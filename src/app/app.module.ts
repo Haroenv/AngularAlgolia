@@ -5,6 +5,8 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
+// var instantsearch = require('instantsearch.js');
+
 @NgModule({
   declarations: [
     AppComponent
