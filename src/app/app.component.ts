@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-var instantsearch = require('instantsearch.js');
+// var instantsearch = require('instantsearch.js');
+// import { } from 'instantsearch.js';
 
 // let search = instantsearch({
 //   appId: '$appId',
