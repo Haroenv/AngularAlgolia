@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-// var instantsearch = require('instantsearch.js');
+var instantsearch = require('instantsearch.js');
 
 // let search = instantsearch({
 //   appId: '$appId',
@@ -40,6 +40,6 @@ export class AppComponent implements OnInit {
 
   }
 
-  OnInit() {}
+  ngOnInit() {}
 
 }
