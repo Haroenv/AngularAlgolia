@@ -1,7 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 //  wrong ?
-var instantsearch = require('instantsearch.js');
+// var instantsearch = require('instantsearch.js');
+// import { instantsearch } from 'instantsearch.js';
+import { instantsearch } from 'instantsearch.js/src/lib/main.js';
+// import * as instantsearch from 'instantsearch.js';
 
 
 // all of these are wrong too.
