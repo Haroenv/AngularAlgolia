@@ -1,9 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
+// import {  } from 'instantsearch.js';
+
 //  wrong ?
 // var instantsearch = require('instantsearch.js');
-// import { instantsearch } from 'instantsearch.js';
-import { instantsearch } from 'instantsearch.js/src/lib/main.js';
+import { instantsearch } from 'instantsearch.js/dist/instantsearch.js';
+// import { instantsearch } from 'instantsearch.js/src/lib/main.js';
 // import * as instantsearch from 'instantsearch.js';
 
 
@@ -12,7 +14,8 @@ import { instantsearch } from 'instantsearch.js/src/lib/main.js';
 // import { * } from './../../node_modules/instantsearch.js/';
 // import {  } from './../../node_modules/instantsearch.js/dist-es5-modulel/src/components/SearchBox';
 // var instantsearch = require('instantsearch.js');
-
+// import instantsearch from 'instantsearch.js';
+// import { main } from 'instantsearch.js';
 
 
 // let search = instantsearch({
